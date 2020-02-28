@@ -1,0 +1,9 @@
+.root {
+    -fx-background-image: url("/example/imge/background.jpg");
+}
+#welcome{
+    -fx-fill: yellow;
+    -fx-font-weight: bold;
+    -fx-font-family: Tahoma;
+    -fx-font-size: 20;
+}
